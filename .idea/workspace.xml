@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e88313d3-5418-4b7c-85f8-034c1503fc11" name="Changes" comment="updated javadocs">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="e88313d3-5418-4b7c-85f8-034c1503fc11" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,6 +185,7 @@
       <workItem from="1715533776941" duration="3646000" />
       <workItem from="1715585435639" duration="4130000" />
       <workItem from="1715620603066" duration="66000" />
+      <workItem from="1715620693464" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="H2 embedded database connection">
       <option name="closed" value="true" />
@@ -340,7 +339,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715585857604</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1715620768000</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715620768000</updated>
+    </task>
+    <task id="LOCAL-00021" summary="initial commit 2">
+      <option name="closed" value="true" />
+      <created>1715620776755</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715620776755</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +393,8 @@
     <MESSAGE value="updated javadoc" />
     <MESSAGE value="small cleanup" />
     <MESSAGE value="updated javadocs" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated javadocs" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="initial commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit 2" />
   </component>
 </project>

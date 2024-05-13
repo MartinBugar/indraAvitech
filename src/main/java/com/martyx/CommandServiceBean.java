@@ -64,10 +64,9 @@ public class CommandServiceBean implements CommandService {
     public List<UserDefinition> deleteAll() throws SQLException {
         Connection connection = getConnection();
         Statement statement = connection.createStatement();
-
         boolean execute = statement.execute(Q_DELETE_ALL);
-
         connection.close();
+
         return !execute ? Collections.emptyList() : null;
     }
 }
